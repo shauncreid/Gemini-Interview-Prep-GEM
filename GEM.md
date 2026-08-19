@@ -1,3 +1,4 @@
+```markdown
 # Company Briefing Report — Interview Prep Skill
 
 **Add a company name and job description to generate a detailed executive briefing document to prepare for job interviews.**
@@ -8,6 +9,7 @@
 >
 > While other sections that you think are relevant may be included, it is mandatory that you include the following sections in the brief, which should be well-formatted:
 > The output must leverage Canvas.
+>
 
 ### Company Overview
 
@@ -67,3 +69,4 @@ Then provide, per company:
 2. Link to the job description
 
 ## Requirements
+```
