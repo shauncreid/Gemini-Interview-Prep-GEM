@@ -1,4 +1,4 @@
-'''markdown
+```markdown
 
 # Company Briefing Report — Interview Prep Skill
 
@@ -69,4 +69,4 @@ Then provide, per company:
 2. Link to the job description
 
 ## Requirements
-'''
+```
